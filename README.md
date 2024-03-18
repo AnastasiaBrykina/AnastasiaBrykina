@@ -4,7 +4,7 @@
 - Located in Ulyanovsk, Russia
 
 ### Languages ​​and tools:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,пшерги)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,github)](https://skillicons.dev)
 
 ### Education
 - Ulyanovsk State Technical University (UlSTU)
