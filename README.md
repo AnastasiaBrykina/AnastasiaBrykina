@@ -4,8 +4,8 @@
 - Located in Ulyanovsk, Russia
 
 ### Languages ​​and tools:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" title='html' />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" title='css' />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" title='html' width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" title='css' width="40" height="40"/>
 HTML, CSS, JavaScript, React, Redux Toolkit, RTK Query
 
 
