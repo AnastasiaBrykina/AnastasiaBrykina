@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋 My name is Anastasia.
+- I'm looking for a job as a frontend developer
+- In the past I worked as an accountant and economist
+- Located in Ulyanovsk, Russia
+
+### Languages ​​and tools:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" title='html' />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" title='css' />
+HTML, CSS, JavaScript, React, Redux Toolkit, RTK Query
+
 
 <!--
 **AnastasiaBrykina/AnastasiaBrykina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
