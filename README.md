@@ -4,12 +4,12 @@
 - Located in Ulyanovsk, Russia
 
 ### Languages ​​and tools:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title='js' width="50" height="50" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title='html' width="50" height="50" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title='css' width="50" height="50" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title='react' width="50" height="50" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" title='redux' width="50" height="50" />&nbsp;
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,пшерги)](https://skillicons.dev)
+
+### Education
+- Ulyanovsk State Technical University (UlSTU)
+
+
 
 
 <!--
